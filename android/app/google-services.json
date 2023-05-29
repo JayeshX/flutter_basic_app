@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614415855678",
+    "project_id": "lutterm",
+    "storage_bucket": "lutterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614415855678:android:661cc6f09b556627b0216f",
+        "android_client_info": {
+          "package_name": "com.example.fluttern.flutterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614415855678-hg580pb4qmun2kmlsl671av1kb3cblte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv0NN1mcT6rn2ALGLeuWigTorVuyxd1ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614415855678-hg580pb4qmun2kmlsl671av1kb3cblte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
